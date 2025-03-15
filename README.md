@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there%2C+I'm+Haroon+Hameed+%F0%9F%91%8B;Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+there%2C+I'm+Haroon+Hameed+%F0%9F%91%8B;Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <!-- Animated Banner -->
